@@ -38,15 +38,7 @@ This experiment focuses on building an advanced Calculator application. The app 
 - **Operator Precedence**: ^ (3) > *, / (2) > +, - (1)
 - **Error Validation**: Input validation and arithmetic error handling
 
-## UI
 
-<img width="358" height="643" alt="Screenshot 2026-02-11 222606" src="https://github.com/user-attachments/assets/c5cdf805-3717-4dbc-b41b-6a9fa0f9feb2" />
-
-
-## App Demo
-
-
-https://github.com/user-attachments/assets/7d61e64a-8a1e-4238-8a5e-689662f4e1ad
 
 
 
